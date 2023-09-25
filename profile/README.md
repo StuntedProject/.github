@@ -8,6 +8,9 @@ This project is contributed by:
 - Fachri @mfachria (Mobile Developer)
 - Rian @fukriandysisnadi (Machine Learning Engineer)
 
+## Licence
+All of this code is published under MIT Licence. Feel free to fork the repository if needed for educational purpose or to continue updating this project on Machine Learning Model, Artificial Intelligence Algorithm. For more detail please contact us. Thanks. 
+
 ## Updates from Project Anya
 
 - Application is now Available on Play Store [here](https://play.google.com/store/apps/details?id=com.projectAnya.stunthink&pcampaignid=web_share)
