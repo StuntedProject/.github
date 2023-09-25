@@ -1,6 +1,6 @@
 # StunThink Project
 
-This is an extended version of [Project Anya](https://github.com/project-anya) which got Top 53 on Google Bangkit 2022 Capstone Project. We combining Artificial Intelligence, Cloud Computing, and Mobile Application to prevent and detect Stunting on Indonesia. 
+This is an extended version of [Project Anya](https://github.com/project-anya) which got Top 53 on Google Bangkit 2022 Capstone Project. We combining Artificial Intelligence, Cloud Computing, and Mobile Application to prevent and detect Stunting on Indonesia.
 
 This project is contributed by:
 
@@ -8,8 +8,9 @@ This project is contributed by:
 - Fachri @mfachria (Mobile Developer)
 - Rian @fukriandysisnadi (Machine Learning Engineer)
 
-## Licence
-All of this code is published under MIT Licence. Feel free to fork the repository if needed for educational purpose or to continue updating this project on Machine Learning Model, Artificial Intelligence Algorithm. For more detail please contact us. Thanks. 
+## License
+
+All of this code is published under MIT License. Feel free to fork the repository if needed for educational purpose or to continue updating this project on Machine Learning Model, Artificial Intelligence Algorithm. For more detail please contact us. Thanks.
 
 ## Updates from Project Anya
 
@@ -31,13 +32,16 @@ All of this code is published under MIT Licence. Feel free to fork the repositor
 - `flask` repository contains backend code for Height Detection Algorithm written on `python3` and `Flask`. The algoritm is implemented using `OpenCV`. Detailed can be found on Paper of StunThink Project.
 - `Mobile` repository contains full code of Mobile app. `Kotlin` is used 100% on this repository. `Jetpack Compose` is used to fullfil the 100% Kotlin. We using Clean Architecture design pattern on this Mobile App.
 
-## Resource 
+## Resource
+
 - [Paper](https://docs.google.com/document/d/1UXqOG3qNxvVWmUAvLDskHbGT_OSkZtznzeI9qrH6j-E/edit?usp=sharing)
 - [Machine Learning Dataset](https://www.kaggle.com/datasets/aveivein/makanan-ibu-food-detection)
 - [ML Model Training Notebook](https://www.kaggle.com/code/aveivein/stunted-food-detection)
 
-## Contact Us 
+## Contact Us
+
 For question regarding this project you can contact Avei on
-- Twitter [@avei__](https://twitter.com/avei__) 
+
+- Twitter [@avei__](https://twitter.com/avei__)
 - Email at [muhammadabdulazizalghofari@gmail.com](mailto:muhammadabdulazizalghofari@gmail.com)
 - Dicord at avei_
